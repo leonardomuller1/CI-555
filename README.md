@@ -3,6 +3,8 @@
 
 Esta calculadora avalia o desempenho do chip genérico 555 no modo Astável. Digite os valores dos componentes e receba automaticamente os resultados.
 
+### Link : https://ci555.netlify.app
+
 
 ### Por que da criação?
 
